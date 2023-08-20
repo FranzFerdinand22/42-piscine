@@ -11,6 +11,10 @@ Dive deep into coding with C and Unix by working through challenging projects an
 
 ### Projects:
 
+**[C00](https://github.com/FranzFerdinand22/42-piscine/tree/main/C00)**: Introduction to C
+
+
+
 ### Developed skills:
 
 **hard skills**:
