@@ -11,21 +11,21 @@ Dive deep into coding with C and Unix by working through challenging projects an
 
 ### Projects:
 
-**[C00](https://github.com/FranzFerdinand22/42-piscine/tree/main/C00)**: Introduction to C
+- **[C00](https://github.com/FranzFerdinand22/42-piscine/tree/main/C00)**: Introduction to C
 
-**[C01](https://github.com/FranzFerdinand22/42-piscine/tree/main/C01)**: Pointers and If Statements
+- **[C01](https://github.com/FranzFerdinand22/42-piscine/tree/main/C01)**: Pointers and If Statements
 
-**[C02](https://github.com/FranzFerdinand22/42-piscine/tree/main/C02)**: Introduction To Strings and Arrays
+- **[C02](https://github.com/FranzFerdinand22/42-piscine/tree/main/C02)**: Introduction To Strings and Arrays
 
-**[C03](https://github.com/FranzFerdinand22/42-piscine/tree/main/C03)**: String Functions, Manipulation and Concatanation
+- **[C03](https://github.com/FranzFerdinand22/42-piscine/tree/main/C03)**: String Functions, Manipulation and Concatanation
 
-**[C04](https://github.com/FranzFerdinand22/42-piscine/tree/main/C04)**: Analysing String Qualities and Manipulating Ints
+- **[C04](https://github.com/FranzFerdinand22/42-piscine/tree/main/C04)**: Analysing String Qualities and Manipulating Ints
 
-**[C05](https://github.com/FranzFerdinand22/42-piscine/tree/main/C05)**: Mathematical Concepts in C
+- **[C05](https://github.com/FranzFerdinand22/42-piscine/tree/main/C05)**: Mathematical Concepts in C
 
-**[C06](https://github.com/FranzFerdinand22/42-piscine/tree/main/C06)**: Understanding Argc and Argv
+- **[C06](https://github.com/FranzFerdinand22/42-piscine/tree/main/C06)**: Understanding Argc and Argv
 
-**[C07](https://github.com/FranzFerdinand22/42-piscine/tree/main/C07)**: Memory Allocation
+- **[C07](https://github.com/FranzFerdinand22/42-piscine/tree/main/C07)**: Memory Allocation
 
 
 
