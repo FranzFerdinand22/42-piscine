@@ -11,6 +11,8 @@ Dive deep into coding with C and Unix by working through challenging projects an
 
 ### Projects:
 
+- **[Shell00](https://github.com/FranzFerdinand22/42-piscine/tree/main/Shell00)**: Introduction to Shell
+
 - **[C00](https://github.com/FranzFerdinand22/42-piscine/tree/main/C00)**: Introduction to C
 
 - **[C01](https://github.com/FranzFerdinand22/42-piscine/tree/main/C01)**: Pointers and If Statements
@@ -26,6 +28,8 @@ Dive deep into coding with C and Unix by working through challenging projects an
 - **[C06](https://github.com/FranzFerdinand22/42-piscine/tree/main/C06)**: Understanding Argc and Argv
 
 - **[C07](https://github.com/FranzFerdinand22/42-piscine/tree/main/C07)**: Memory Allocation
+
+- **[Rush00](https://github.com/FranzFerdinand22/42-piscine/tree/main/Rush00)**: Group project
 
 
 
