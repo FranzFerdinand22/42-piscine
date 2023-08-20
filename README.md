@@ -9,9 +9,9 @@
 The Piscine is a 4-weeks immersive training on campus taht brings together about 150 other candidates to spend 4 weeks, seven days a week, day and night (including weekends) . 
 Dive deep into coding with C and Unix by working through challenging projects and solving daily assignments alongside your peers.
 
-**projects**:
+### Projects:
 
-### developed skills:
+### Developed skills:
 
 **hard skills**:
 ```
