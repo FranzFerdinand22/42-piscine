@@ -1,4 +1,4 @@
-# 42Prague - piscine
+# 42Prague - Piscine (November 2022)
 
 ### about piscine:
 „Piscine“ it’s the French word for „Swimming Pool“. The idea is that everyone learns how to swim by immediately jumping into the water.In 42 believes it’s the same when you start programming.
